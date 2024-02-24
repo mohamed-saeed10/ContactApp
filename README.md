@@ -1,4 +1,4 @@
-Don't forget To use / XAMPP Control Panal .. open apache and my sql, and Don't forget To use / phpMyadmin to save your database, Don't forget To download icons
+Don't forget To use / XAMPP Control Panal .. open apache and my sql, Don't forget To use / phpMyadmin to save your database, Don't forget To download icons
 
 
 
